@@ -1,0 +1,2 @@
+tamzid	mahabub	06/10/2004	100000	dhaka	45678	tamzid@gmail.com	BSc	manager	76543567	54912
+mahin	Riyan	28/07/2003	200000	Ctg	3245687	mahin@gmail.com	BSc	employee	234567543	13650
